@@ -1,0 +1,191 @@
+Id, Attractions, Top 10 Places,City 
+zuri1,Lake Zürich,1,zurich
+zuri2,Museum of Art,2,zurich
+zuri3,Altstadt (Old Town),3,zurich
+zuri4,Lindenhof,4,zurich
+zuri5,Zürich-West,5,zurich
+zuri6,Swiss National Museum,6,zurich
+zuri7,Grossmünster,7,zurich
+zuri8,Zürich Zoo,8,zurich
+zuri9,Uetliberg,9,zurich
+zuri10, Niederdorf,10,zurich
+amst1,Amsterdam Free Walking Tour,1,amsterdam
+amst2,Heineken Experience,2,amsterdam
+amst3,75-Minute Water Colors Cruise,3,amsterdam
+amst4,Van Gogh Museum Ticket,4,amsterdam
+amst5,Johan Cruijff ArenA Stadium 75-Minute Tour,5,amsterdam
+amst6,A’DAM Lookout Premium Ticket Including 2 Drinks,6,amsterdam
+amst7,Keukenhof Entry Tickets and Transfers,7,amsterdam
+amst8,Skip the Line Ticket and Audio Guide: Amsterdam Royal Palace,8,amsterdam
+amst9,Ultimate Party Pub Crawl – Red Light District,9,amsterdam
+amst10, Volendam Marken & Windmills with Free 1-Hour Canal Cruise,10,amsterdam
+Edin1,Edinburgh Castle,1,Edinburgh
+Edin2,Princes Street,2,Edinburgh
+Edin3,Holyrood Palace,3,Edinburgh
+Edin4,Camera Obscura,4,Edinburgh
+Edin5,Arthur’s Seat,5,Edinburgh
+Edin6,Mary King’s Close,6,Edinburgh
+Edin7,St Giles’ Cathedral,7,Edinburgh
+Edin8,Scottish National Gallery,8,Edinburgh
+Edin9,Scott Monument,9,Edinburgh
+Edin10, Royal Botanic Garden,10,Edinburgh
+barc1,Las Ramblas,1,barcelona
+barc2,Sagrada Família,2,barcelona
+barc3,Casa Batlló,3,barcelona
+barc4,Casa Milà,4,barcelona
+barc5,City Beaches,5,barcelona
+barc6,La Boqueria,6,barcelona
+barc7,Camp Nou,7,barcelona
+barc8,Park Güell,8,barcelona
+barc9,Barcelona City History Museum,9,barcelona
+barc10, Montjuïc,10,barcelona
+berl1,Brandenburg Gate,1,berlin
+berl2,Reichstag,2,berlin
+berl3,Tiergarten,3,berlin
+berl4,Victory Column (Siegessäule),4,berlin
+berl5,Museum Island,5,berlin
+berl6,Neues Museum,6,berlin
+berl7,Gemäldegalerie,7,berlin
+berl8,Gedenkstätte Berliner Mauer,8,berlin
+berl9,Pergamon Museum,9,berlin
+berl10, Deutsches Historisches Museum,10,berlin
+buda1,Parliament Building,1,budapest
+buda2,Gellért Baths,2,budapest
+buda3,Heroes’ Square,3,budapest
+buda4,Margaret Island,4,budapest
+buda5,Danube Promenade,5,budapest
+buda6,House of Terror,6,budapest
+buda7,St. Stephen’s Basilica,7,budapest
+buda8,Hungarian State Opera House,8,budapest
+buda9,Fisherman’s Bastion,9,budapest
+buda10, Invisible Exhibition,10,budapest
+cope1,Tivoli Gardens,1,copenhagen
+cope2,Little mermaid statue,2,copenhagen
+cope3,Strøget,3,copenhagen
+cope4,Nyhavn,4,copenhagen
+cope5,Nationalmuseet,5,copenhagen
+cope6,Christiansborg Palace,6,copenhagen
+cope7,Rent a bicycle,7,copenhagen
+cope8,Botanical Garden,8,copenhagen
+cope9,Christiania,9,copenhagen
+cope10, Rosenborg Castle,10,copenhagen
+dubl1,Party like the Irish at The Temple Bar,1,dublin
+dubl2,Drink Inside a Restored Cathedral at The Church,2,dublin
+dubl3,Visit the Guinness Storehouse Factory,3,dublin
+dubl4,Take a Tour of the Old Jameson Distillery,4,dublin
+dubl5,Take a photo with The Spire of Dublin,5,dublin
+dubl6,Marvel at the Beauty of St. Patrick’s Cathedral,6,dublin
+dubl7,Go Back in Time to Dublin Castle,7,dublin
+dubl8,Take a Walk over Ha’penny Bridge,8,dublin
+dubl9,Visit Christ Church Cathedral,9,dublin
+dubl10, Have a Picnic in Phoenix Park,10,dublin
+Hels1,Suomenlinna,1,Helsinki
+Hels2,Helsinki Cathedral,2,Helsinki
+Hels3,Esplanadi,3,Helsinki
+Hels4,Temppeliaukio Church,4,Helsinki
+Hels5,Seurasaari Island,5,Helsinki
+Hels6,Uspenski Cathedral,6,Helsinki
+Hels7,Old Market Hall,7,Helsinki
+Hels8,Urban Sauna visit,8,Helsinki
+Hels9,Linnanmäki,9,Helsinki
+Hels10, Crayfish parties,10,Helsinki
+wars1,Old Town,1,warsaw
+wars2,Royal Route,2,warsaw
+wars3,Lazienki Park,3,warsaw
+wars4,Old Town Market Place,4,warsaw
+wars5,POLIN Museum of the History of Polish Jews,5,warsaw
+wars6,Royal Castle,6,warsaw
+wars7,Castle Square,7,warsaw
+wars8,Warsaw Uprising Museum,8,warsaw
+wars9,Copernicus Science Centre,9,warsaw
+wars10, Palace of Culture and Science,10,warsaw
+lisb1,Wonder at the Torre de Belém,1,lisbon
+lisb2,Ride Tram 28,2,lisbon
+lisb3,Get lost in the Alfama District,3,lisbon
+lisb4,Make a trip to Sintra,4,lisbon
+lisb5,Enjoy the azulejos in the National Tile Museum,5,lisbon
+lisb6,Conquer the bulwarks of St George’s Castle,6,lisbon
+lisb7,Trace glorious history in the Monastery of Jerónimos,7,lisbon
+lisb8,Go underwater in the Lisbon Oceanarium,8,lisbon
+lisb9,Wonder at the master works of the National Museum of Ancient Art,9,lisbon
+lisb10, Get a taste of the East in Museu do Oriente,10,lisbon
+ljub1,Prešeren Square,1,ljubljana
+ljub2,Triple Bridge,2,ljubljana
+ljub3,Ljubljana Castle,3,ljubljana
+ljub4,Dragon Bridge,4,ljubljana
+ljub5,Tivoli Park,5,ljubljana
+ljub6,Ljubljana Cathedral,6,ljubljana
+ljub7,Central Market,7,ljubljana
+ljub8,Franciscan Church of the Annunciation,8,ljubljana
+ljub9,National Gallery of Slovenia,9,ljubljana
+ljub10, Metelkova Mesto,10,ljubljana
+lond1,Tower Bridge,1,london
+lond2,Tate Modern,2,london
+lond3,Shakespeare’s Globe,3,london
+lond4,Borough Market,4,london
+lond5,The Shard,5,london
+lond6,Southwark Cathedral,6,london
+lond7,Millennium Bridge,7,london
+lond8,Imperial War Museum London,8,london
+lond9,HMS Belfast,9,london
+lond10, The Old Operating Theatre Museum and Herb Garret,10,london
+oslo1,Bygdøy Peninsula,1,oslo
+oslo2,Viking Ship Museum,2,oslo
+oslo3,Frogner Park,3,oslo
+oslo4,Vigeland Museum,4,oslo
+oslo5,Fram Museum,5,oslo
+oslo6,Norwegian Folk Museum,6,oslo
+oslo7,Norwegian National Gallery,7,oslo
+oslo8,Oslo Opera House,8,oslo
+oslo9,Kon-Tiki Museum,9,oslo
+oslo10, Holmenkollen Ski Museum & Tower,10,oslo
+pari1,The Louvre,1,paris
+pari2,Musée d’Orsay,2,paris
+pari3,Eiffel Tower,3,paris
+pari4,Notre-Dame de Paris,4,paris
+pari5,Palace of Versailles,5,paris
+pari6,Hôtel des Invalides,6,paris
+pari7,Musée de l’Orangerie,7,paris
+pari8,Centre Georges Pompidou,8,paris
+pari9,Arc de Triomphe,9,paris
+pari10, Sainte-Chapelle,10,paris
+prag1,See the Infant Jesus of Prague,1,prague
+prag2,Explore the Old Town Square,2,prague
+prag3,Watch the Astronomical Clock Strike an Hour,3,prague
+prag4,Stroll across the Charles Bridge,4,prague
+prag5,Witness the old Jewish Ghetto,5,prague
+prag6,Visit Prague Castle,6,prague
+prag7,See the Treasures of St Vitus Cathedral,7,prague
+prag8,Golden Lane – Playground for Alchemists,8,prague
+prag9,Eat a Pork Knuckle,9,prague
+prag10, Investigate the KGB Museum,10,prague
+rome1,Colosseum,1,rome
+rome2,St Peter’s Square,2,rome
+rome3,St. Peter’s Basilica,3,rome
+rome4,The Pantheon,4,rome
+rome5,Trevi Fountain,5,rome
+rome6,Spanish Steps,6,rome
+rome7,Roman Forum,7,rome
+rome8,Sistine Chapel,8,rome
+rome9,Vatican Museums,9,rome
+rome10, Piazza Navona,10,rome
+stoc1,Gamla Stan,1,stockholm
+stoc2,Skansen,2,stockholm
+stoc3,Vasa Museum,3,stockholm
+stoc4,Modern Art Museum,4,stockholm
+stoc5,The Medieval Museum,5,stockholm
+stoc6,Junibacken,6,stockholm
+stoc7,Swedish History Museum,7,stockholm
+stoc8,Royal Palace,8,stockholm
+stoc9,Fotografiska,9,stockholm
+stoc10, The City Hall,10,stockholm
+vien1,Schönbrunn Palace,1,vienna
+vien2,Hofburg Palace,2,vienna
+vien3,St Stephen’s Cathedral,3,vienna
+vien4,Schonbrunn Gardens,4,vienna
+vien5,Rathaus,5,vienna
+vien6,Tiergarten Schonbrunn (Vienna Zoo),6,vienna
+vien7,Belvedere Museum,7,vienna
+vien8,Vienna State Opera,8,vienna
+vien9,Vienna Natural History Museum,9,vienna
+vien10, Prater Amusement Park,10,vienna
